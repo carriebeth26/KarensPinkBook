@@ -1,0 +1,86 @@
+html {
+    font-family: 'Lato', sans-serif;
+}
+h1,h2,h3,h4,h5,h6,p,a,li {
+    font-family: 'Lato', sans-serif;
+}
+p {
+    font-size: 22px;
+}
+.navbar-brand {
+height: 80px;
+}
+.navbar-right {
+    padding-right: 30px;
+}
+.navbar {
+    background-color: #fff;
+
+}
+body {
+    margin-top: 125px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-image: url("/ricepaper-5.png");
+    font-size: 19px;
+}
+.row {
+    border-bottom: solid 40px #F74B61;
+    padding-bottom: 20px;
+}
+.jumbotron {
+    background-color: #fff;
+    color: inherit;
+    margin-bottom: 30px;
+    padding: 30px 15px;
+    border-radius: .5em;
+    background-image: url("/leaf.png");
+    background-repeat: no-repeat;
+}
+
+}
+
+
+.jumbotron h1 {
+    margin-left: 78px;
+}
+.navbar-nav > li > a {
+    line-height: 36px;
+}
+.col-md-2 > img {
+    padding-bottom: 9px;
+}
+a:hover {
+    text-decoration: none;
+    color: #000;
+}
+a {
+    color: #000;
+}
+footer {
+    background-color: #f74b61;
+    width: 100%;
+    left: 0;
+    right: 0;
+    position: absolute;
+}
+footer .col-md-1 {
+    padding-top: 55px;
+    padding-left: 42px;
+}
+footer .col-md-11 {
+    padding-left: 40px;
+    padding-top: 45px;
+}
+h5 {
+    color:#ffffff;
+}
+.col-md-4 img {
+    float: right;
+}
+h1 {
+    padding-bottom: 10px;
+}
+#inputMessage {
+    margin-bottom: 19px;
+}
